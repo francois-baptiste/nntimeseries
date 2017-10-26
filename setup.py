@@ -1,11 +1,11 @@
 from distutils.core import setup
 
 setup(
-    name='timenn',
+    name='nnts',
     version='0.0.1',
     author='mbinkowski',
     author_email='',
-    packages=['timenn'],
+    packages=['nnts'],
     scripts=[],
     license='LICENSE.txt',
     description='Useful towel-related stuff.',
